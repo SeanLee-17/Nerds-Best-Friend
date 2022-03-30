@@ -2,7 +2,7 @@
 
 ## Description
 
-This note taker is an effective way to write and save notes onto your desktop. This was accomplished thanks to JavaScript and HTML, while I also utilized Express.js and Uuvid4. This was definitely my most challenging homework assignment for me but after asking teachers and colleagues I was able to figure something out.
+    This note taker is an effective way to write and save notes onto your desktop. This was accomplished thanks to JavaScript and HTML, while I also utilized Express.js and Uuvid4. This was definitely my most challenging homework assignment for me but after asking teachers and colleagues I was able to figure something out.
 
 ## Table of Contents
 
@@ -18,15 +18,15 @@ This note taker is an effective way to write and save notes onto your desktop. T
 
 ## "I got a blank space baby" -Taylor Swift
 
-To use this project, type "node server.js" into the terminal to run this program in the localhost.3001. After that you can play around with all the functions including typing, saving, and retrieving notes on the page.
+    To use this project, type "node server.js" into the terminal to run this program in the localhost.3001. After that you can play around with all the functions including typing, saving, and retrieving notes on the page.
 
 ## Contributing
 
-Me, Professors, and Raj
+    Me, Professors, and Raj
 
 ## Questions
 
-Github Username: Sean-Lee-17
+    Github Username: Sean-Lee-17
 
 ## Links 
     
